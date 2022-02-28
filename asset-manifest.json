@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://noahwillebiz.github.io/csb-m0mofx/static/css/main.54bf01f3.chunk.css",
+    "main.js": "https://noahwillebiz.github.io/csb-m0mofx/static/js/main.19c2c3ea.chunk.js",
+    "main.js.map": "https://noahwillebiz.github.io/csb-m0mofx/static/js/main.19c2c3ea.chunk.js.map",
+    "runtime-main.js": "https://noahwillebiz.github.io/csb-m0mofx/static/js/runtime-main.645cda77.js",
+    "runtime-main.js.map": "https://noahwillebiz.github.io/csb-m0mofx/static/js/runtime-main.645cda77.js.map",
+    "static/css/2.30fd9f85.chunk.css": "https://noahwillebiz.github.io/csb-m0mofx/static/css/2.30fd9f85.chunk.css",
+    "static/js/2.bf8d68da.chunk.js": "https://noahwillebiz.github.io/csb-m0mofx/static/js/2.bf8d68da.chunk.js",
+    "static/js/2.bf8d68da.chunk.js.map": "https://noahwillebiz.github.io/csb-m0mofx/static/js/2.bf8d68da.chunk.js.map",
+    "index.html": "https://noahwillebiz.github.io/csb-m0mofx/index.html",
+    "static/css/2.30fd9f85.chunk.css.map": "https://noahwillebiz.github.io/csb-m0mofx/static/css/2.30fd9f85.chunk.css.map",
+    "static/css/main.54bf01f3.chunk.css.map": "https://noahwillebiz.github.io/csb-m0mofx/static/css/main.54bf01f3.chunk.css.map",
+    "static/js/2.bf8d68da.chunk.js.LICENSE.txt": "https://noahwillebiz.github.io/csb-m0mofx/static/js/2.bf8d68da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.645cda77.js",
+    "static/css/2.30fd9f85.chunk.css",
+    "static/js/2.bf8d68da.chunk.js",
+    "static/css/main.54bf01f3.chunk.css",
+    "static/js/main.19c2c3ea.chunk.js"
+  ]
+}
